@@ -1,0 +1,9 @@
+C:\Users\kcziuy\OneDrive\Вова\Базы Данных\BazaDannikh_var17_2.0\BazaDannikh_var17_2.0\bin\Debug\BazaDannikh_var17_2.0.exe.config
+C:\Users\kcziuy\OneDrive\Вова\Базы Данных\BazaDannikh_var17_2.0\BazaDannikh_var17_2.0\bin\Debug\BazaDannikh_var17_2.0.exe
+C:\Users\kcziuy\OneDrive\Вова\Базы Данных\BazaDannikh_var17_2.0\BazaDannikh_var17_2.0\bin\Debug\BazaDannikh_var17_2.0.pdb
+C:\Users\kcziuy\OneDrive\Вова\Базы Данных\BazaDannikh_var17_2.0\BazaDannikh_var17_2.0\obj\Debug\BazaDannikh_var17_2.0.csprojAssemblyReference.cache
+C:\Users\kcziuy\OneDrive\Вова\Базы Данных\BazaDannikh_var17_2.0\BazaDannikh_var17_2.0\obj\Debug\BazaDannikh_var17_2._0.Form1.resources
+C:\Users\kcziuy\OneDrive\Вова\Базы Данных\BazaDannikh_var17_2.0\BazaDannikh_var17_2.0\obj\Debug\BazaDannikh_var17_2._0.Properties.Resources.resources
+C:\Users\kcziuy\OneDrive\Вова\Базы Данных\BazaDannikh_var17_2.0\BazaDannikh_var17_2.0\obj\Debug\BazaDannikh_var17_2.0.csproj.GenerateResource.cache
+C:\Users\kcziuy\OneDrive\Вова\Базы Данных\BazaDannikh_var17_2.0\BazaDannikh_var17_2.0\obj\Debug\BazaDannikh_var17_2.0.exe
+C:\Users\kcziuy\OneDrive\Вова\Базы Данных\BazaDannikh_var17_2.0\BazaDannikh_var17_2.0\obj\Debug\BazaDannikh_var17_2.0.pdb
